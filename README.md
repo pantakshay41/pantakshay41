@@ -12,11 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pantakshay41.pantakshay41&"  />
-</div>
-
-###
 
 <h2 align="center">Hi There 👋</h2>
 
@@ -26,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Akshay from Haldwani<br><br>- 🔭 I’m working as NLP Engineer @ Key Management Group<br>- 📚 I'm currently learning a little but of self attention<br>- ⚡Ask me about Neural Networks</p>
+<p align="left">I'm Akshay Pant<br><br>- 🔭 I’m working as NLP Engineer @ Key Management Group<br>- 📚 I'm currently learning a little but of self attention<br>- ⚡Ask me about Neural Networks</p>
 
 ###
 
