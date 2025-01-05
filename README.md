@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Akshay Pant<br><br>- 🔭 I’m working as NLP Engineer @ Key Management Group<br>- 📚 I'm currently learning a little but of self attention<br>- ⚡Ask me about Neural Networks</p>
+<p align="left">I'm Akshay Pant<br><br>- 🔭 I’m working as AI/ML Engineer @ Audax Labs<br>- 📚 I'm currently learning a little but of self attention<br>- ⚡Ask me about Neural Networks</p>
 
 ###
 
